@@ -35,7 +35,7 @@ To do so :
 
 # 42-Piscine-Berlin
 
-Backup of my work during the selection process aka "piscine" of 42 Berlin in September 2023.
+**[Backup of my work]** (https://github.com/bautret/42/tree/main/Piscine) during the selection process aka "piscine" of 42 Berlin in September 2023.
 
 Few tips:
 
