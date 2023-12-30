@@ -1,4 +1,4 @@
-# Hi there :wave:
+# Core Curriculum
 
 **[Here are the projects](https://github.com/bautret/42/tree/main/Core_Curriculum)** I worked on at 42 *(Berlin campus)*.
 
