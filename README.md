@@ -2,7 +2,7 @@
 
 **[Here are the projects](https://github.com/bautret/42/tree/main/Core_Curriculum)** I worked on at 42 *(Berlin campus)*.
 
-I stopped after the 1st project at 42 *(Berlin campus)*: **[Libft](https://github.com/bautret/42_Core_Curriculum/tree/github/Libft)** to focus on my role at **numa**.
+I stopped after the 1st project at 42 *(Berlin campus)*: **[Libft](https://github.com/bautret/42/tree/main/Core_Curriculum/Libft)** to focus on my role at **numa**.
 
 ---
 
